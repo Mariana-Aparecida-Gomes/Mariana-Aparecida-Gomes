@@ -1,7 +1,7 @@
 <div>
 <h1>Mariana Aparecida</h1>
 <div align="center">
-<img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="300" height="300" alt="dev gif"/>
+<img src="https://media.giphy.com/media/bhBWbzBjgeSxEjBG9R/giphy.gif" width="300" height="300" alt="dev gif"/>
 </div>
 <h2>Desenvolvedora Frontend</h2>
 </div>
