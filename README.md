@@ -1,5 +1,5 @@
 <div>
-<h1>Mariana Aparecida</h1>
+<h1>Mariana Gomes</h1>
 <div align="center">
 <img src="https://media.giphy.com/media/bhBWbzBjgeSxEjBG9R/giphy.gif" width="300" height="300" alt="dev gif"/>
 </div>
