@@ -8,9 +8,9 @@
 
 
 <div align="center">
-  <a href="https://github.com/Alessandro-Massarotti-Jr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mariana-Aparecida-Gomes&show_icons=true&title_color=ff0000&text_color=ffffff&icon_color=c7c7c7&border_color=ffffff&bg_color=0,000000,222&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariana-Aparecida-Gomes&layout=compact&langs_count=7&&title_color=ff0000&text_color=ffffff&icon_color=c7c7c7&border_color=ffffff&bg_color=0,000000,222"/>
+  <a href="https://github.com/Mariana-Aparecida-Gomes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mariana-Aparecida-Gomes&show_icons=true&title_color=8b0707&text_color=f665ff&icon_color=f665ff&border_color=f665ff&bg_color=f6d5e5&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariana-Aparecida-Gomes&layout=compact&langs_count=7&&title_color=8b0707&text_color=f665ff&icon_color=c7c7c7&border_color=f665ff&bg_color=f6d5e5"/>
 </div>
 
   
